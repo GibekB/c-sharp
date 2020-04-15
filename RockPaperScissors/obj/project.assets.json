@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SerDa\\Documents\\DevFolder\\c-sharp\\cohort-1 2020\\ManyMethods.csproj",
-      "projectName": "ManyMethods",
-      "projectPath": "C:\\Users\\SerDa\\Documents\\DevFolder\\c-sharp\\cohort-1 2020\\ManyMethods.csproj",
+      "projectUniqueName": "C:\\Users\\SerDa\\Documents\\DevFolder\\c-sharp\\RockPaperScissors\\RockPaperScissors.csproj",
+      "projectName": "RockPaperScissors",
+      "projectPath": "C:\\Users\\SerDa\\Documents\\DevFolder\\c-sharp\\RockPaperScissors\\RockPaperScissors.csproj",
       "packagesPath": "C:\\Users\\SerDa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SerDa\\Documents\\DevFolder\\c-sharp\\cohort-1 2020\\obj\\",
+      "outputPath": "C:\\Users\\SerDa\\Documents\\DevFolder\\c-sharp\\RockPaperScissors\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SerDa\\AppData\\Roaming\\NuGet\\NuGet.Config",

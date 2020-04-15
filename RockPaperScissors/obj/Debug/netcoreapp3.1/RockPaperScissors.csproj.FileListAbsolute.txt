@@ -1,0 +1,13 @@
+C:\Users\SerDa\Documents\DevFolder\c-sharp\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.exe
+C:\Users\SerDa\Documents\DevFolder\c-sharp\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.deps.json
+C:\Users\SerDa\Documents\DevFolder\c-sharp\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.json
+C:\Users\SerDa\Documents\DevFolder\c-sharp\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.dev.json
+C:\Users\SerDa\Documents\DevFolder\c-sharp\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.dll
+C:\Users\SerDa\Documents\DevFolder\c-sharp\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.pdb
+C:\Users\SerDa\Documents\DevFolder\c-sharp\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\SerDa\Documents\DevFolder\c-sharp\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\SerDa\Documents\DevFolder\c-sharp\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\SerDa\Documents\DevFolder\c-sharp\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfo.cs
+C:\Users\SerDa\Documents\DevFolder\c-sharp\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.dll
+C:\Users\SerDa\Documents\DevFolder\c-sharp\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.pdb
+C:\Users\SerDa\Documents\DevFolder\c-sharp\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.genruntimeconfig.cache

@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyMethods", "ManyMethods.csproj", "{2967C80E-256A-46F3-A3E2-F73CAA58A04D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManyMethods", "ManyMethods.csproj", "{2967C80E-256A-46F3-A3E2-F73CAA58A04D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PigLatin", "..\PigLatin\PigLatin.csproj", "{9B189CB1-5AE8-4898-B145-D06CCE51288E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissors", "..\RockPaperScissors\RockPaperScissors.csproj", "{388FF16D-DE67-45A1-8A60-2A3B12DEC378}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9B189CB1-5AE8-4898-B145-D06CCE51288E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B189CB1-5AE8-4898-B145-D06CCE51288E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B189CB1-5AE8-4898-B145-D06CCE51288E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{388FF16D-DE67-45A1-8A60-2A3B12DEC378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388FF16D-DE67-45A1-8A60-2A3B12DEC378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388FF16D-DE67-45A1-8A60-2A3B12DEC378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388FF16D-DE67-45A1-8A60-2A3B12DEC378}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

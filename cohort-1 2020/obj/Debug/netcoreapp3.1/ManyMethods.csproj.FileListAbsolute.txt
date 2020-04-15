@@ -11,3 +11,9 @@ C:\Users\SerDa\source\repos\cohort-1 2020\obj\Debug\netcoreapp3.1\ManyMethods.As
 C:\Users\SerDa\source\repos\cohort-1 2020\obj\Debug\netcoreapp3.1\ManyMethods.dll
 C:\Users\SerDa\source\repos\cohort-1 2020\obj\Debug\netcoreapp3.1\ManyMethods.pdb
 C:\Users\SerDa\source\repos\cohort-1 2020\obj\Debug\netcoreapp3.1\ManyMethods.genruntimeconfig.cache
+C:\Users\SerDa\Documents\DevFolder\c-sharp\cohort-1 2020\obj\Debug\netcoreapp3.1\ManyMethods.csprojAssemblyReference.cache
+C:\Users\SerDa\Documents\DevFolder\c-sharp\cohort-1 2020\obj\Debug\netcoreapp3.1\ManyMethods.csproj.CoreCompileInputs.cache
+C:\Users\SerDa\Documents\DevFolder\c-sharp\cohort-1 2020\obj\Debug\netcoreapp3.1\ManyMethods.AssemblyInfoInputs.cache
+C:\Users\SerDa\Documents\DevFolder\c-sharp\cohort-1 2020\obj\Debug\netcoreapp3.1\ManyMethods.AssemblyInfo.cs
+C:\Users\SerDa\Documents\DevFolder\c-sharp\cohort-1 2020\obj\Debug\netcoreapp3.1\ManyMethods.dll
+C:\Users\SerDa\Documents\DevFolder\c-sharp\cohort-1 2020\obj\Debug\netcoreapp3.1\ManyMethods.pdb
