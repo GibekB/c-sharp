@@ -1,0 +1,13 @@
+C:\Users\SerDa\Documents\DevFolder\c-sharp\MasterMind\bin\Debug\netcoreapp3.1\MasterMind.exe
+C:\Users\SerDa\Documents\DevFolder\c-sharp\MasterMind\bin\Debug\netcoreapp3.1\MasterMind.deps.json
+C:\Users\SerDa\Documents\DevFolder\c-sharp\MasterMind\bin\Debug\netcoreapp3.1\MasterMind.runtimeconfig.json
+C:\Users\SerDa\Documents\DevFolder\c-sharp\MasterMind\bin\Debug\netcoreapp3.1\MasterMind.runtimeconfig.dev.json
+C:\Users\SerDa\Documents\DevFolder\c-sharp\MasterMind\bin\Debug\netcoreapp3.1\MasterMind.dll
+C:\Users\SerDa\Documents\DevFolder\c-sharp\MasterMind\bin\Debug\netcoreapp3.1\MasterMind.pdb
+C:\Users\SerDa\Documents\DevFolder\c-sharp\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.csprojAssemblyReference.cache
+C:\Users\SerDa\Documents\DevFolder\c-sharp\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\SerDa\Documents\DevFolder\c-sharp\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.AssemblyInfoInputs.cache
+C:\Users\SerDa\Documents\DevFolder\c-sharp\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.AssemblyInfo.cs
+C:\Users\SerDa\Documents\DevFolder\c-sharp\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.dll
+C:\Users\SerDa\Documents\DevFolder\c-sharp\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.pdb
+C:\Users\SerDa\Documents\DevFolder\c-sharp\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.genruntimeconfig.cache
