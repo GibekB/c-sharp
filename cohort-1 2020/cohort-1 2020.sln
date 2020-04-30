@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RockPaperScissors", "..\Roc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MasterMind", "..\MasterMind\MasterMind.csproj", "{CDBAF8B0-3B67-45DC-B884-F66D304F583F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerOfHanoi", "..\TowerOfHanoi\TowerOfHanoi.csproj", "{2698C16C-7695-4EFD-BEDD-674C491A6BD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TowerOfHanoi", "..\TowerOfHanoi\TowerOfHanoi.csproj", "{2698C16C-7695-4EFD-BEDD-674C491A6BD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperHeroes", "..\SuperHeroes\SuperHeroes.csproj", "{4A207F4E-6269-459A-9C29-E319CE99B65E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{2698C16C-7695-4EFD-BEDD-674C491A6BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2698C16C-7695-4EFD-BEDD-674C491A6BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2698C16C-7695-4EFD-BEDD-674C491A6BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A207F4E-6269-459A-9C29-E319CE99B65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A207F4E-6269-459A-9C29-E319CE99B65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A207F4E-6269-459A-9C29-E319CE99B65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A207F4E-6269-459A-9C29-E319CE99B65E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

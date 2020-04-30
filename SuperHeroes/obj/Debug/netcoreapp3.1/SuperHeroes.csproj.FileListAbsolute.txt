@@ -1,0 +1,13 @@
+C:\Users\SerDa\Documents\DevFolder\c-sharp\SuperHeroes\bin\Debug\netcoreapp3.1\SuperHeroes.exe
+C:\Users\SerDa\Documents\DevFolder\c-sharp\SuperHeroes\bin\Debug\netcoreapp3.1\SuperHeroes.deps.json
+C:\Users\SerDa\Documents\DevFolder\c-sharp\SuperHeroes\bin\Debug\netcoreapp3.1\SuperHeroes.runtimeconfig.json
+C:\Users\SerDa\Documents\DevFolder\c-sharp\SuperHeroes\bin\Debug\netcoreapp3.1\SuperHeroes.runtimeconfig.dev.json
+C:\Users\SerDa\Documents\DevFolder\c-sharp\SuperHeroes\bin\Debug\netcoreapp3.1\SuperHeroes.dll
+C:\Users\SerDa\Documents\DevFolder\c-sharp\SuperHeroes\bin\Debug\netcoreapp3.1\SuperHeroes.pdb
+C:\Users\SerDa\Documents\DevFolder\c-sharp\SuperHeroes\obj\Debug\netcoreapp3.1\SuperHeroes.csprojAssemblyReference.cache
+C:\Users\SerDa\Documents\DevFolder\c-sharp\SuperHeroes\obj\Debug\netcoreapp3.1\SuperHeroes.csproj.CoreCompileInputs.cache
+C:\Users\SerDa\Documents\DevFolder\c-sharp\SuperHeroes\obj\Debug\netcoreapp3.1\SuperHeroes.AssemblyInfoInputs.cache
+C:\Users\SerDa\Documents\DevFolder\c-sharp\SuperHeroes\obj\Debug\netcoreapp3.1\SuperHeroes.AssemblyInfo.cs
+C:\Users\SerDa\Documents\DevFolder\c-sharp\SuperHeroes\obj\Debug\netcoreapp3.1\SuperHeroes.dll
+C:\Users\SerDa\Documents\DevFolder\c-sharp\SuperHeroes\obj\Debug\netcoreapp3.1\SuperHeroes.pdb
+C:\Users\SerDa\Documents\DevFolder\c-sharp\SuperHeroes\obj\Debug\netcoreapp3.1\SuperHeroes.genruntimeconfig.cache
