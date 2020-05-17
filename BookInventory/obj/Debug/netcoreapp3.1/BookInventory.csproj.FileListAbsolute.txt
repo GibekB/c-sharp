@@ -1,0 +1,3 @@
+C:\Users\SerDa\Documents\DevFolder\c-sharp\BookInventory\bin\Debug\netcoreapp3.1\BookInventory.exe
+C:\Users\SerDa\Documents\DevFolder\c-sharp\BookInventory\obj\Debug\netcoreapp3.1\BookInventory.AssemblyInfoInputs.cache
+C:\Users\SerDa\Documents\DevFolder\c-sharp\BookInventory\obj\Debug\netcoreapp3.1\BookInventory.AssemblyInfo.cs
