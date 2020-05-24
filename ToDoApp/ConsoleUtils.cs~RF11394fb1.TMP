@@ -1,0 +1,49 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ToDoApp
+{
+    public class ConsoleUtils
+    {
+        public string GetUserOption()
+        {
+            PrintMenu();
+            var result = Console.ReadLine();
+
+            do
+            {
+
+                if (int.TryParse(result, out int number))
+                {
+                    if (number > 6)
+                    {
+
+                    }
+                    return result;
+                }
+                else
+                {
+                    Console.WriteLine("Please pick a valid number.");
+                }
+            } while (true);
+        }
+        public void PrintMenu()
+        {
+            Console.WriteLine("1 - Create a new item. 2 - Delete an item. 3 - Mark an item as done. 4 - List all items. 5 - List done items. 6 - List pending items.");
+            Console.WriteLine("Enter the option number");
+        }
+        public ToDoItem GetItem()
+        {
+            
+            Console.WriteLine("Enter a description.");
+            string desc = Console.ReadLine();
+
+            Console.WriteLine("Enter a due date");
+            DateTime date = Console.ReadLine();
+
+            return new ToDoItem(desc, date);
+
+        }
+    }
+}
